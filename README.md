@@ -1,2 +1,2 @@
-# Histori-Card
-Aplikasi Pencatatan Mesin-Mesin LAI
+# HistoriCard
+Aplikasi Pencatatan Mesin-Mesin Percetakan Lembaga Alkitab Indonesia
